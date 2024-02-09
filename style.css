@@ -1,0 +1,12 @@
+.description {
+    font-style: italic;
+}
+
+.ingredients {
+    background-color: dimgray;
+    color: white;
+}
+
+.steps {
+    color: blueviolet;
+}
